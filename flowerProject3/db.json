@@ -1,0 +1,52 @@
+{
+    "products": [{
+            "id_product": 101,
+            "product_name": "Ut eu feugiat",
+            "price": 240,
+            "img": "01_l.jpg",
+            "img2": "01.jpg"
+        },
+        {
+            "id_product": 102,
+            "product_name": "Donec Est Nisi",
+            "price": 160,
+            "img": "02_l.jpg"
+        },
+        {
+            "id_product": 103,
+            "product_name": "Tristique Vitae",
+            "price": 140,
+            "img": "03_l.jpg"
+        },
+        {
+            "id_product": 104,
+            "product_name": "Hendrerit Eu",
+            "price": 320,
+            "img": "04_l.jpg"
+        },
+        {
+            "id_product": 105,
+            "product_name": "Tincidunt Nisi",
+            "price": 150,
+            "img": "05_l.jpg"
+        },
+        {
+            "id_product": 106,
+            "product_name": "Curabitur et turpis",
+            "price": 110,
+            "img": "06_l.jpg"
+        },
+        {
+            "id_product": 107,
+            "product_name": "Mauris consect",
+            "price": 130,
+            "img": "07_l.jpg"
+        },
+        {
+            "id_product": 108,
+            "product_name": "Proin volutpat",
+            "price": 170,
+            "img": "08_l.jpg"
+        }
+    ]
+}
